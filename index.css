@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+:root{
+    --primary-color: #1F2937;
+}
+
+body{
+    font-family: 'Roboto Mono',
+    monospace;
+}
+/* container */
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Links */
+.primary-link{
+    color: var(--primary-color);
+}
