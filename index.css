@@ -60,6 +60,7 @@ hr {
 .navigation .nav-brand {
 	font-weight: bold;
 	font-size: 1.1rem;
+	color: var(--contrast-color);
 }
 .navigation .link-active {
 	font-weight: bold;
