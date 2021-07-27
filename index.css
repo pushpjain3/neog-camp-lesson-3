@@ -5,6 +5,8 @@
 	--secondary-color: #f9fafb;
     --off-blue: #DBEAFE;
 	--contrast-color: #34d399;
+	--contrast-light: #A7F3D0;
+;
 }
 
 body {
@@ -100,7 +102,7 @@ hr {
 	text-align: center;
 }
 .ob{
-    background-color: var(--off-blue);
+    background-color: var(--contrast-light);
 }
 
 /* footer */
